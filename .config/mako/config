@@ -1,0 +1,37 @@
+# Fonts
+font=Inter 11
+text-color=#F1E7DC
+
+# Icons
+icon-path=$HOME/.local/share/icons/Gruvbox-Plus-Dark/
+icon-border-radius=10
+max-icon-size=50
+
+# Setup
+anchor=top-center
+default-timeout=5500
+# ignore-timeout=1
+# format=<b>%a</b> ⇝ %s\n%b
+
+# Styling
+margin=10
+outer-margin=10
+padding=10
+
+background-color=#27201a99
+
+border-color=#8CB61E
+border-size=2
+border-radius=12
+
+width=300
+height=185
+
+[urgency=normal]
+border-color=#709368
+
+[urgency=high]
+border-color=#9F5255
+default-timeout=0
+
+# top, left, right, botom
