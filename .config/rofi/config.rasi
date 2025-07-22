@@ -1,4 +1,1 @@
-
-//@theme "/home/gianm/.local/share/rofi/themes/rounded-blue-dark.rasi"
-
-@theme "/home/gianm/.local/share/rofi/themes/rounded-default.rasi"
+@theme "$HOME/.local/share/rofi/themes/rounded-default.rasi"
