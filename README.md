@@ -13,5 +13,6 @@ Simple Hyprland setup using...
 
 ![Screenshot](/images/screenshot.png)
 ![Screenshot](/images/screenshot_2.png)
+![Screenshot](/images/lockscreen.png)
 
 > Written with [StackEdit](https://stackedit.io/).
