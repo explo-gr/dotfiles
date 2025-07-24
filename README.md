@@ -12,5 +12,6 @@ Simple Hyprland setup using...
  - Grimblast
 
 ![Screenshot](/images/screenshot.png)
+![Screenshot](/images/screenshot_2.png)
 
 > Written with [StackEdit](https://stackedit.io/).
