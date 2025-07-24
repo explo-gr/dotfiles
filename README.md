@@ -11,8 +11,9 @@ Simple Hyprland setup using...
  - Clipse
  - Grimblast
 
-![Screenshot](/images/screenshot.png)
+![Screenshot](/images/screenshot_3.png)
 ![Screenshot](/images/screenshot_2.png)
 ![Screenshot](/images/lockscreen.png)
+![Screenshot](/images/screenshot.png)
 
 > Written with [StackEdit](https://stackedit.io/).
